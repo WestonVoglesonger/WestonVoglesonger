@@ -24,7 +24,7 @@ As a Computer Science student at the University of North Carolina at Chapel Hill
 - **[Edge Carolina Website](https://github.com/Edge-Carolina/Edge-Carolina-Website)**
   - A platform to engage and manage club members, built using Angular and FastAPI.
 
-- **[UNC-CSXL Website](https://github.com/Edge-Carolina/UNC-CSXL-Website)**
+- **[UNC-CSXL Website Seating Chart and Room Editor](https://github.com/comp423-24s/csxl-final-team-d2)**
   - A system for managing study room reservations, enhancing student interaction and facility usage.
 
 ## 🔧 Skills
