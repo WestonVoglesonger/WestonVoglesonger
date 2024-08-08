@@ -11,7 +11,7 @@ As a Computer Science student at the University of North Carolina at Chapel Hill
 
 - **University of North Carolina at Chapel Hill**
   - B.S. in Computer Science
-  - Dean’s List, GPA: 3.60
+  - Dean’s List, GPA: 3.44
 
 ## 💼 Professional Experience
 
