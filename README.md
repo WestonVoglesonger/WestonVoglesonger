@@ -31,7 +31,7 @@ As a Computer Science student at the University of North Carolina at Chapel Hill
  
 - **[Lands of Aeturnum](https://github.com/WestonVoglesonger/Sons-of-Arnor.git)**
 
-- **[Project Edge Social Network](https://github.com/WestonVoglesonger/Project-Edge.git))**
+- **[Project Edge Social Network](https://github.com/WestonVoglesonger/Project-Edge.git)**
 
 - **[Edge Carolina Starter Website](https://github.com/Edge-Carolina/Edge-Carolina-Starter-Website.git)**
 
