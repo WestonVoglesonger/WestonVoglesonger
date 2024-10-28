@@ -46,4 +46,3 @@ As a Computer Science student at the University of North Carolina at Chapel Hill
 
 - **Email:** [westonvogle@gmail.com](mailto:westonvogle@gmail.com)
 - **LinkedIn:** [Visit my LinkedIn](https://linkedin.com/in/weston-voglesonger)
-- **GitHub:** [Visit my GitHub](https://github.com/Edge-Carolina)
