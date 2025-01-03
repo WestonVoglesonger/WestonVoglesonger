@@ -12,7 +12,7 @@ As a **Computer Science student** at the **University of North Carolina at Chape
 ## 🎓 Education
 
 - **University of North Carolina at Chapel Hill**  
-  - B.S. in Computer Science | **GPA: 3.44** | Dean’s List  
+  - B.S. in Computer Science | **GPA: 3.29** | Dean’s List  
   - Expected Graduation: **May 2026**
 
 ---
@@ -28,7 +28,7 @@ As a **Computer Science student** at the **University of North Carolina at Chape
 
 ## 🚀 Projects
 
-### **Agentic Narrative Compiler**  
+### **[Agentic Narrative Compiler](https://github.com/WestonVoglesonger/Agentic-Narrative-Compiler)**  
 - Built a comprehensive compiler system enabling **dynamic multi-agent simulations** with over 300 concurrent agents.  
 - Integrated advanced language models (OpenAI, PyTorch) to create human-like interactions.  
 - Achieved **40% latency reduction** and improved simulation accuracy by **25%**.
