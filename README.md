@@ -19,7 +19,7 @@ As a **Computer Science student** at the **University of North Carolina at Chape
 
 ## 💼 Professional Experience
 
-- **CEO & CTO | Edge Carolina**  
+- **CEO | Edge Carolina**  
   - Founded and led a 100+ member organization fostering entrepreneurship and technological innovation.  
   - Directed the development of the **Edge Carolina website**, boosting community engagement and project visibility.  
   - Raised **$5,000+ in funding** to support club activities, events, and technical projects.
@@ -29,8 +29,7 @@ As a **Computer Science student** at the **University of North Carolina at Chape
 ## 🚀 Projects
 
 ### **[Agentic Narrative Compiler](https://github.com/WestonVoglesonger/Agentic-Narrative-Compiler)**  
-- Built a comprehensive compiler system enabling **dynamic multi-agent simulations** with over 300 concurrent agents.  
-- Integrated advanced language models (OpenAI, PyTorch) to create human-like interactions.  
+- Building a comprehensive LLM code editing system enabling **dynamic multi-agent communication and planning**.  
 - Achieved **40% latency reduction** and improved simulation accuracy by **25%**.
 
 ### **[Multifact](https://github.com/WestonVoglesonger/Multifact-V4)**  
