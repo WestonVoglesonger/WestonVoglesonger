@@ -2,20 +2,8 @@
 
 # I'm Weston Voglesonger
 
-As a **Computer Science student** at the **University of North Carolina at Chapel Hill** and the **President of Edge Carolina**, I am passionate about harnessing the power of technology to build community, foster creativity, and deliver innovative solutions. My expertise lies in web development, UI/UX design, and building scalable digital ecosystems.
+Attempting to build cool shit...
 
-![Profile views](https://komarev.com/ghpvc/?username=Edge-Carolina&color=brightgreen&label=Profile+Views)  
-![GitHub followers](https://img.shields.io/github/followers/Edge-Carolina?label=Follow&style=social)
-
----
-
-## 🎓 Education
-
-- **University of North Carolina at Chapel Hill**  
-  - B.S. in Computer Science | **GPA: 3.29** | Dean’s List  
-  - Expected Graduation: **May 2026**
-
----
 
 ## 💼 Professional Experience
 
@@ -49,15 +37,7 @@ As a **Computer Science student** at the **University of North Carolina at Chape
 - Developed a Python-based **text adventure RPG** with **100+ decision paths** and **3 unique endings**.  
 - Enhanced player engagement with dynamic storylines, achieving a **20% increase in retention**.
 
----
 
-## 🔧 Skills
-
-- **Programming Languages:** Java, TypeScript, Python, JavaScript, Rust, C, HTML/CSS  
-- **Tools & Frameworks:** Angular, FastAPI, React, SQLAlchemy, Docker, Git/GitHub, VS Code  
-- **Specializations:** Scalable System Design, Agile Methodologies, Full-Stack Development  
-
----
 
 ## 📫 How to Reach Me
 
