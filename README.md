@@ -4,43 +4,81 @@
 
 Attempting to build cool shit...
 
+---
 
 ## 💼 Professional Experience
 
-- **CEO | Edge Carolina**  
-  - Founded and led a 100+ member organization fostering entrepreneurship and technological innovation.  
-  - Directed the development of the **Edge Carolina website**, boosting community engagement and project visibility.  
-  - Raised **$5,000+ in funding** to support club activities, events, and technical projects.
+* **Software Engineer | Tech‑Dash, Method Inc.**
+  *Jun 2025 – Present*
+
+  * Worked with an 8‑person team delivering an internal knowledge‑management platform (React, Next.js, Firebase).
+  * Cut project spin‑up time **30 %** and improved information discovery **45 %** through reusable component libraries and CI/CD.
+
+* **CEO | Edge Carolina**
+  *Feb 2024 – Present*
+
+  * Founded and lead a 100+ member organization fostering entrepreneurship and tech innovation.
+  * Raised **\$5 k+** for events & hardware and launched the **Edge Carolina website**, boosting community engagement.
 
 ---
 
 ## 🚀 Projects
 
-### **[Agentic Narrative Compiler](https://github.com/WestonVoglesonger/Agentic-Narrative-Compiler)**  
-- Building a comprehensive LLM code editing system enabling **dynamic multi-agent communication and planning**.  
-- Achieved **40% latency reduction** and improved simulation accuracy by **25%**.
+### Tech‑Dash *(private repo)*
 
-### **[Multifact](https://github.com/WestonVoglesonger/Multifact-V4)**  
-- Developing a **full-stack platform** for auto-generating multi-page websites using JSON and LLMs.  
-- Utilizing **React, TypeScript, and Python** to create a seamless user experience for real-time project creation.  
+Internal knowledge‑management SaaS for Method Inc.
 
-### **[Project Edge Social Network](https://github.com/WestonVoglesonger/Project-Edge)**  
-- Spearheaded the creation of a university-wide **collaboration platform** for students and faculty.  
-- Built with **Angular** and **FastAPI**, handling over **50,000 daily interactions**.  
-- Reduced response times by **50%**, enhancing user engagement.
+* React / Next.js / Firebase stack with server‑side rendering and Firestore.
+* Reusable design system that accelerated future internal tools by **30 %**.
 
-### **[UNC-CSXL Website Seating Chart and Room Editor](https://github.com/comp423-24s/csxl-final-team-d2)**  
-- Led a team to design a **real-time room reservation system**, serving over 1,000 students.  
-- Streamlined **seat reservation processes**, reducing booking time by **30%**.  
+### [Agentic Narrative Compiler](https://github.com/WestonVoglesonger/Agentic-Narrative-Compiler)
 
-### **[Lands of Aeturnum](https://github.com/WestonVoglesonger/Sons-of-Arnor)**  
-- Developed a Python-based **text adventure RPG** with **100+ decision paths** and **3 unique endings**.  
-- Enhanced player engagement with dynamic storylines, achieving a **20% increase in retention**.
+Self‑healing LLM code‑editing framework enabling dynamic multi‑agent planning.
 
+* Reflection loop cut iteration time **40 %** and lifted test coverage to **98 %** over 10 k LOC.
 
+### A World of Generative Agents
+
+Large‑scale simulation inspired by "Generative Agents: Interactive Simulacra…"
+
+* Orchestrated **300+** CLM agents with optimized interaction protocols, reducing latency **40 %** and increasing behavioral fidelity **25 %**.
+
+### [Multifact](https://github.com/WestonVoglesonger/Multifact-V4)
+
+Full‑stack platform that auto‑generates multi‑page websites from JSON/LLM prompts.
+
+* React & TypeScript front‑end, Python micro‑services; delivers ready‑to‑host zip bundles.
+
+### Pill Identification App *(WIP)*
+
+On‑device pill classifier built with **Rust + ONNX Runtime** and **React Native**.
+
+* 12 MB quantized U‑Net for segmentation; all inference local to iOS; Axum + SQLite backend.
+
+### Motor‑Imagery EEG BCI
+
+Building a 14‑channel dry‑electrode EEG headset and real‑time motor‑signal classifier.
+
+* Streaming to PyTorch‑Lite model with <100 ms latency; custom PCB in KiCad.
+
+### [Project Edge Social Network](https://github.com/WestonVoglesonger/Project-Edge)
+
+Campus collaboration platform (Angular + FastAPI) handling **50 k** daily interactions.
+
+* Response times down **50 %**; supports up to 20 simultaneous projects per user.
+
+### [UNC‑CSXL Seating Chart & Room Editor](https://github.com/comp423-24s/csxl-final-team-d2)
+
+Real‑time seat/room reservation system serving **1 k+** students; booking time down **30 %**.
+
+### [Lands of Aeturnum](https://github.com/WestonVoglesonger/Sons-of-Arnor)
+
+Python text‑adventure RPG with **100+** decision paths and **3** endings; boosted player retention **20 %**.
+
+---
 
 ## 📫 How to Reach Me
 
-- **Email:** [westonvogle@gmail.com](mailto:westonvogle@gmail.com)  
-- **LinkedIn:** [Visit my LinkedIn](https://linkedin.com/in/weston-voglesonger)  
-- **GitHub:** [My Repositories](https://github.com/WestonVoglesonger)  
+* **Email:** [westonvogle@gmail.com](mailto:westonvogle@gmail.com)
+* **LinkedIn:** [linkedin.com/in/weston-voglesonger](https://linkedin.com/in/weston-voglesonger)
+* **GitHub:** [github.com/WestonVoglesonger](https://github.com/WestonVoglesonger)
