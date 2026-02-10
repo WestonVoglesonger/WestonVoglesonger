@@ -1,79 +1,82 @@
 ### Hi there 👋
-
 # I'm Weston Voglesonger
-
 Attempting to build cool shit...
 
 ---
 
-## 💼 Professional Experience
+## 🧠 What I'm Working On
 
-* **Software Engineer | Tech‑Dash, Method Inc.**
-  *Jun 2025 – Present*
-
-  * Worked with an 8‑person team delivering an internal knowledge‑management platform (React, Next.js, Firebase).
-  * Cut project spin‑up time **30 %** and improved information discovery **45 %** through reusable component libraries and CI/CD.
-
-* **CEO | Edge Carolina**
-  *Feb 2024 – Present*
-
-  * Founded and lead a 100+ member organization fostering entrepreneurship and tech innovation.
-  * Raised **\$5 k+** for events & hardware and launched the **Edge Carolina website**, boosting community engagement.
+I'm a senior CS student at UNC Chapel Hill doing undergrad research in brain‑computer interfaces with Dr. Raghavendra Pothukuchi. My current focus is building real‑time benchmarking infrastructure for BCI signal processing — and eventually turning that into a company.
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
 
-### Tech‑Dash *(private repo)*
+* **CEO & Founder | Edge Carolina** · *Feb 2024 – Present*
+  * Founded a 150+ member 501(c)(3) teaching software engineering through real product development.
+  * Raised **$5 k+** for events & hardware; launched the [Edge Carolina website](https://github.com/Edge-Carolina) to drive community engagement.
 
-Internal knowledge‑management SaaS for Method Inc.
+* **Technical Manager | NEXUS, Method Inc.** · *Jun – Aug 2025*
+  * Led a 13‑person intern team shipping a discovery‑first knowledge‑management platform (Next.js 15, Firebase, Firestore, Google Drive REST).
+  * Bootstrapped **~40 k lines** of foundational code, navigated a mid‑program Chrome‑extension → web‑app pivot, and delivered through two back‑to‑back 5‑day sprints.
 
-* React / Next.js / Firebase stack with server‑side rendering and Firestore.
-* Reusable design system that accelerated future internal tools by **30 %**.
+---
+
+## 🚀 Featured Projects
+
+### [CORTEX](https://github.com/WestonVoglesonger/CORTEX)
+**Common Off‑implant Runtime Test Ecosystem for BCI Kernels**
+Production‑grade benchmarking framework for brain‑computer interface signal processing built on an AWS‑inspired primitives architecture.
+* C engine + Python CLI measuring latency, jitter, throughput, and memory under real‑time deadlines.
+* Discovered the **"Idle Paradox"** — idle systems produce *worse* latency due to DVFS effects.
+* 260+ commits, 100 k+ lines of code. `C` `Python`
+
+### [NEXUS](https://github.com/WestonVoglesonger/Vault)
+**Method's Knowledge Management Hub**
+Discovery‑first internal platform with faceted search, structured curation, and conversational retrieval across thousands of documents.
+* 63 composite Firestore indexes for sub‑200 ms multi‑faceted queries; cursor‑based pagination with client‑side relevance scoring.
+* Google SSO, Drive integration, admin entity management, bookmarks. `Next.js` `Firebase` `TypeScript`
+
+### [DueNorth](https://github.com/WestonVoglesonger/DueNorth)
+**Course & Assignment Tracker**
+Minimal Next.js app for tracking courses and assignments with optional Canvas LMS import.
+* NextAuth (Email + Google), Prisma + SQLite, secure token‑based email verification and password reset.
+* React Query, Zod validation, rate‑limited API endpoints. `TypeScript` `Next.js` `Prisma`
+
+---
+
+## 🛠️ Other Projects
+
+### [MindDuel](https://github.com/WestonVoglesonger/MindDuel) · [Live →](https://mind-duel-psi.vercel.app)
+Competitive 1v1 trivia game with ELO matchmaking, 200 k+ questions, and real‑time WebSocket gameplay.
+`Next.js` `Supabase` `TypeScript`
+
+### [ARDA](https://github.com/WestonVoglesonger/ARDA)
+AI‑powered pipeline converting Python algorithms into production‑quality SystemVerilog RTL for FPGA implementation.
+`Python`
 
 ### [Agentic Narrative Compiler](https://github.com/WestonVoglesonger/Agentic-Narrative-Compiler)
-
-Self‑healing LLM code‑editing framework enabling dynamic multi‑agent planning.
-
-* Reflection loop cut iteration time **40 %** and lifted test coverage to **98 %** over 10 k LOC.
-
-### A World of Generative Agents
-
-Large‑scale simulation inspired by "Generative Agents: Interactive Simulacra…"
-
-* Orchestrated **300+** CLM agents with optimized interaction protocols, reducing latency **40 %** and increasing behavioral fidelity **25 %**.
-
-### [Multifact](https://github.com/WestonVoglesonger/Multifact-V4)
-
-Full‑stack platform that auto‑generates multi‑page websites from JSON/LLM prompts.
-
-* React & TypeScript front‑end, Python micro‑services; delivers ready‑to‑host zip bundles.
-
-### Pill Identification App *(WIP)*
-
-On‑device pill classifier built with **Rust + ONNX Runtime** and **React Native**.
-
-* 12 MB quantized U‑Net for segmentation; all inference local to iOS; Axum + SQLite backend.
-
-### Motor‑Imagery EEG BCI
-
-Building a 14‑channel dry‑electrode EEG headset and real‑time motor‑signal classifier.
-
-* Streaming to PyTorch‑Lite model with <100 ms latency; custom PCB in KiCad.
+Self‑healing LLM code‑editing framework with dynamic multi‑agent planning.
+`Python`
 
 ### [Project Edge Social Network](https://github.com/WestonVoglesonger/Project-Edge)
+Campus collaboration platform (Angular + FastAPI) for Edge Carolina. `Python` `Angular`
 
-Campus collaboration platform (Angular + FastAPI) handling **50 k** daily interactions.
+### [Generative Agents](https://github.com/WestonVoglesonger/Generative_Agents)
+Large‑scale simulation inspired by *"Generative Agents: Interactive Simulacra…"* — orchestrating 300+ CLM agents.
+`Python`
 
-* Response times down **50 %**; supports up to 20 simultaneous projects per user.
+---
 
-### [UNC‑CSXL Seating Chart & Room Editor](https://github.com/comp423-24s/csxl-final-team-d2)
+## 📦 Archived / Past Work
 
-Real‑time seat/room reservation system serving **1 k+** students; booking time down **30 %**.
-
-### [Lands of Aeturnum](https://github.com/WestonVoglesonger/Sons-of-Arnor)
-
-Python text‑adventure RPG with **100+** decision paths and **3** endings; boosted player retention **20 %**.
+| Project | Description |
+|---------|-------------|
+| [Lands of Aeturnum](https://github.com/WestonVoglesonger/Sons-of-Arnor) | Python text‑adventure RPG with 100+ decision paths |
+| Multifact | Full‑stack platform auto‑generating multi‑page websites from JSON/LLM prompts *(private)* |
+| Pill Identification App | On‑device pill classifier with Rust + ONNX Runtime *(private)* |
+| [UNC‑CSXL Seating Chart](https://github.com/comp423-24s/csxl-final-team-d2) | Real‑time seat/room reservation system for 1 k+ students |
+| [MakeMore2](https://github.com/WestonVoglesonger/MakeMore2) | First MLP, based on Andrej Karpathy's MakeMore series |
 
 ---
 
@@ -81,4 +84,4 @@ Python text‑adventure RPG with **100+** decision paths and **3** endings; boos
 
 * **Email:** [westonvogle@gmail.com](mailto:westonvogle@gmail.com)
 * **LinkedIn:** [linkedin.com/in/weston-voglesonger](https://linkedin.com/in/weston-voglesonger)
-* **GitHub:** [github.com/WestonVoglesonger](https://github.com/WestonVoglesonger)
+* **Portfolio:** [weston-portfolio.vercel.app](https://weston-portfolio.vercel.app)
