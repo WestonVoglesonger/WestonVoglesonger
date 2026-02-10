@@ -31,7 +31,7 @@ Production‑grade benchmarking framework for brain‑computer interface signal 
 * Discovered the **"Idle Paradox"** — idle systems produce *worse* latency due to DVFS effects.
 * 260+ commits, 100 k+ lines of code. `C` `Python`
 
-### [NEXUS](https://github.com/WestonVoglesonger/Vault)
+### NEXUS
 **Method's Knowledge Management Hub**
 Discovery‑first internal platform with faceted search, structured curation, and conversational retrieval across thousands of documents.
 * 63 composite Firestore indexes for sub‑200 ms multi‑faceted queries; cursor‑based pagination with client‑side relevance scoring.
