@@ -14,7 +14,7 @@ I'm a senior CS student at UNC Chapel Hill doing undergrad research in brain‑c
 
 * **CEO & Founder | Edge Carolina** · *Feb 2024 – Present*
   * Founded a 150+ member 501(c)(3) teaching software engineering through real product development.
-  * Raised **$5 k+** for events & hardware; launched the [Edge Carolina website](www.edgecarolina.com) to drive community engagement.
+  * Raised **$5 k+** for events & hardware; launched the [Edge Carolina website](https://www.edgecarolina.com) to drive community engagement.
 
 * **Technical Manager | NEXUS, Method Inc.** · *Jun – Aug 2025*
   * Led a 13‑person intern team shipping a discovery‑first knowledge‑management platform (Next.js 15, Firebase, Firestore, Google Drive REST).
